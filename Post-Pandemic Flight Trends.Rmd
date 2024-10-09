@@ -1,0 +1,115 @@
+---
+title: "Post-Pandemic Flight Recovery"
+author: "Tom Wang"
+date: "2024-10-07"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+```
+
+```{r}
+flight_data <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2022/2022-07-12/flights.csv')
+```
+
+```{r}
+flights_19to22 <- flight_data %>%
+  select(YEAR, MONTH_NUM, FLT_TOT_1) %>%
+  filter(between(YEAR, 2019, 2022)) %>% 
+  rename(Flight_Num = FLT_TOT_1, Month = MONTH_NUM, Year = YEAR)
+flights_19to22
+```
+
+
+```{r}
+monthly_flights <- flights_19to22 %>%
+  group_by(Year, Month) %>%
+  summarize(Total_Flights = sum(Flight_Num), .groups = 'drop')
+monthly_flights
+```
+
+```{r}
+flight_trend <- ggplot(monthly_flights,
+       aes(
+         x = factor(Month),
+         y = Total_Flights,
+         group = Year,
+         color = factor(Year)
+       )) +
+  geom_line() +
+  geom_point() +
+  labs(
+    title = "Monthly Flight Trends (2019 - May 2022)",
+    x = "Month",
+    y = "Number of Flights",
+    color = "Year"
+  ) +
+  theme_minimal()
+flight_trend
+```
+
+```{r}
+ggplot(flights_19to22, aes(sample = Flight_Num)) +
+  stat_qq() +
+  stat_qq_line() +
+  labs(
+    title = "Q-Q Plot of Total Flights (2019 - 2022)",
+    x = "Theoretical Quantiles",
+    y = "Sample Quantiles"
+  ) + facet_wrap(~ Year) +
+  theme_minimal()
+```
+
+```{r}
+# Q-Q plot for Total_Flights
+ggplot(monthly_flights, aes(sample = Total_Flights)) +
+  stat_qq() +
+  stat_qq_line() +
+  labs(
+    title = "Q-Q Plot of Total Flights (2019 - 2022)",
+    x = "Theoretical Quantiles",
+    y = "Sample Quantiles"
+  ) + facet_wrap(~ Year) +
+  theme_minimal()
+```
+
+```{r}
+flights_2019 <- monthly_flights %>%
+  filter(Year == 2019) %>%
+  select(Month, Baseline_Flights = Total_Flights)
+```
+
+```{r}
+flight_recovery <- monthly_flights %>%
+  left_join(flights_2019, by = "Month") %>% 
+  mutate(Flight_Rate_VS_2019 = round((Total_Flights / Baseline_Flights) * 100, digits = 2)) %>% 
+  filter(Year != 2019) %>% 
+  select(Year, Month, Flight_Rate_VS_2019)
+flight_recovery
+
+```
+
+```{r}
+ggplot(flight_recovery, 
+       aes(
+         x = factor(Month), 
+         y = Flight_Rate_VS_2019, 
+         group = Year, 
+         color = factor(Year)
+       )) +
+  geom_line() +
+  geom_point() +
+  labs(
+    title = "Monthly Flight Rate vs. 2019",
+    x = "Month",
+    y = "Flight Rate vs. 2019 (%)",
+    color = "Year"
+  ) +
+  theme_minimal()
+```
+
+
+
