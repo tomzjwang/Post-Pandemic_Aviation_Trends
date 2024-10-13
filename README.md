@@ -7,7 +7,7 @@ Insight will be provided for there areas
 3. Comparing month flight rates to 2019
 
 # Monthly Flight
-Data is found [here](https://github.com/user-attachments/files/17356533/monthlyflights.csv)
+The following visualization is derived from the original dataset and includes the number of monthly flights from 2019 to May 2022. The cleaned dataset can be found [here](https://github.com/user-attachments/files/17356533/monthlyflights.csv).
 
 ![Monthly Flight](https://github.com/user-attachments/assets/0a7d265d-f62e-4e72-9668-4518ab48b2ea)
 
