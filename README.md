@@ -7,10 +7,13 @@ Insight will be provided for there areas
 3. Comparing month flight rates to 2019
 
 # Monthly Flight
-The following visualization is derived from the original dataset and includes the number of monthly flights from 2019 to May 2022. The cleaned dataset can be found [here](https://github.com/user-attachments/files/17356533/monthlyflights.csv).
+Overview:
+The following visualization is derived from the original dataset and includes the number of monthly flights from 2019 to May 2022 across European countries. The cleaned dataset, which includes variables such as Year, Month, and Total Flights, can be found [here](https://github.com/user-attachments/files/17356533/monthlyflights.csv).
 
 ![Monthly Flight](https://github.com/user-attachments/assets/0a7d265d-f62e-4e72-9668-4518ab48b2ea)
 
+Insights & Findings:
+Abnormal declines occured starting from Feb 2020
 
 ![Q-Q Plot](https://github.com/user-attachments/assets/a5471a2a-a32d-4ffa-aad3-515f8c88f668)
 
