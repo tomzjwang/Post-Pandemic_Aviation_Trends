@@ -13,8 +13,9 @@ The following visualization is derived from the original dataset and includes th
 ![Monthly Flight](https://github.com/user-attachments/assets/0a7d265d-f62e-4e72-9668-4518ab48b2ea)
 
 Insights & Findings:
-Abnormal declines occured starting from Feb 2020
+Abnormal declines occured starting from Feb 2020 then began incrasing again due to travel season and stablizing at around 500k monthly flights until an incrase at May 2022 restoring the monthly flights numbers to 1 milion and in early 2022 monthly flights have become closer to 1.5 milion flights monthly in every passing month.
 
+#
 ![Q-Q Plot](https://github.com/user-attachments/assets/a5471a2a-a32d-4ffa-aad3-515f8c88f668)
 
 ![Monthly QQ plot](https://github.com/user-attachments/assets/026618f2-b161-464b-85f7-67b6ba803975)
