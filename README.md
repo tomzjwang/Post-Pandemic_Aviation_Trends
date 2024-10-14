@@ -8,7 +8,7 @@ Insight will be provided for there areas
 
 # Flight Volume Recovery:
 **Overview**:
-The following visualization is derived from the original dataset and includes the number of monthly flights from 2019 to May 2022 across European countries. The cleaned dataset, which includes variables such as Year, Month, and Total Flights, can be found [here](https://github.com/user-attachments/files/17356533/monthlyflights.csv).
+The following visualization is derived from the original dataset and includes the number of monthly flights from 2019 to May 2022 across European countries. The cleaned dataset, which includes variables such as Year, Month, and Total Flights, can be found [here](https://github.com/user-attachments/files/17356533/monthlyflights.csv), the data illustrating flight recovery percentages is shown in the table below [here](https://github.com/user-attachments/files/17370027/flightrecovery.csv).
 
 **North Star Metric**: 
 Total Monthly Flights: This metric tracks the number of flights each month to measure overall recovery progress.                       
