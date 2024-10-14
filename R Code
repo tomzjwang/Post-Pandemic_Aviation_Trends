@@ -1,12 +1,3 @@
----
-title: "Post-Pandemic Flight Recovery"
-author: "Tom Wang"
-date: "2024-10-07"
-output:
-  pdf_document: default
-  html_document: default
----
-
 ```{r setup, include=FALSE}
 library(tidyverse)
 ```
