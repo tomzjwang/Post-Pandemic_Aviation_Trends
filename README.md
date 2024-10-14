@@ -14,13 +14,10 @@ The following visualization is derived from the original dataset and includes th
 Total Monthly Flights: This metric tracks the number of flights each month to measure overall recovery progress.                       
 Month-over-Month Growth Rate: Compares the percentage of flights recovered each month relative to 2019 levels.
 ![Monthly Flight](https://github.com/user-attachments/assets/0a7d265d-f62e-4e72-9668-4518ab48b2ea)
-
+![% Flight rate](https://github.com/user-attachments/assets/7db57447-abe8-43b9-9d01-9b68aa4b009e)
 **Insights & Findings**:
 1. Initial Decline: The data indicates a dramatic drop in flight volumes starting in February 2020. This aligns with the onset of the COVID-19 pandemic and subsequent travel restrictions. 
 2. Gradual Recovery: From mid 2020, there is a noticeable uptick in flights, reflecting the gradual easing of lockdowns and an increase in seasonal travel, with some countries reopening their borders.
 3. Decline Phase: During late 2020, many countries began reintroducing tighter restrictions due to new variants and rising case numbers.
 4. Significant Increases: Starting from May 2021, flight numbers began to rise significantly as vaccinations became more widespread and countries gradually reopened their borders.
 5. Approaching Pre-Pandemic Levels: From July 2021 onwards, there was a strong upward trend, with monthly flights reaching 1 million and ultimately breaking 1.25 million by May 2022. This indicates that the industry is nearing full recovery, driven by pent-up demand and eased restrictions.
-
-![% Flight rate](https://github.com/user-attachments/assets/7db57447-abe8-43b9-9d01-9b68aa4b009e)
-
