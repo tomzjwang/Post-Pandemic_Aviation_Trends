@@ -25,21 +25,24 @@ Month-over-Month Growth Rate: Compares the percentage of flights recovered each 
 5. Approaching Pre-Pandemic Levels: From July 2021 onwards, there was a strong upward trend, with monthly flights reaching 1 million and ultimately breaking 1.25 million by May 2022. This indicates that the industry is nearing full recovery, driven by pent-up demand and eased restrictions.
 
 
-# Flight Volume Recovery:
+# Country-Specific Recovery:
 These countries have experienced significant air travel activity, with each accounting for over 4 million flights from 2019 to May 2022. Due to their substantial traffic and pivotal roles in European air travel, I will deep dive into the recovery trends and insights for these four countries as shown [by](https://github.com/user-attachments/files/17370386/table.csv).
 
-1. Spain
+**Spain**
 
 ![Spain](https://github.com/user-attachments/assets/152be887-e00b-4106-8061-d5b65affab6e)
 
-2. Germany
+**Germany**
 
 ![Germany](https://github.com/user-attachments/assets/6420031c-3f0a-48bb-b948-929041174d8c)
 
-3. France
+**France**
 
 ![France](https://github.com/user-attachments/assets/769bbf76-c783-488f-989d-e1171cc697d6)
 
-4. UK
+**UK**
 
 ![UK](https://github.com/user-attachments/assets/2f6a834b-74ad-4601-b406-12dda0f481f3)
+
+
+# Average Monthly Growth Rate
