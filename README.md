@@ -14,7 +14,8 @@ Total Monthly Flights: This metric tracks the number of flights each month to me
 Month-over-Month Growth Rate: Compares the percentage of flights recovered each month relative to 2019 levels.
 
 ![Flight Trend](https://github.com/user-attachments/assets/a9bd816f-47cc-4e3f-881a-d3fdf7ce2e44)
-![UK](https://github.com/user-attachments/assets/bfbc7ad5-b691-402c-a1a4-81af10ac73f8)
+![Eu](https://github.com/user-attachments/assets/c6bd20d3-11f8-4adf-8d38-10be47bf9748)
+
 
 **Insights & Findings**:
 1. Initial Decline: The data indicates a dramatic drop in flight volumes starting in February 2020. This aligns with the onset of the COVID-19 pandemic and subsequent travel restrictions. 
@@ -43,5 +44,6 @@ These countries have experienced significant air travel activity, with each acco
 
 ![UK](https://github.com/user-attachments/assets/2f6a834b-74ad-4601-b406-12dda0f481f3)
 
-
+**Insights & Findings**:
+1
 # Average Monthly Growth Rate
