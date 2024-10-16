@@ -25,5 +25,5 @@ Month-over-Month Growth Rate: Compares the percentage of flights recovered each 
 
 
 # Flight Volume Recovery:
-Here I will look at the following countries: Spain, Germany, France, UK since between 2019 - May 2022 these countries accured over 4 milion flights as shown [here](https://github.com/user-attachments/files/17370386/table.csv).
+These countries have experienced significant air travel activity, with each accounting for over 4 million flights from 2019 to May 2022. Due to their substantial traffic and pivotal roles in European air travel, I will deep dive into the recovery trends and insights for these four countries as shown [by](https://github.com/user-attachments/files/17370386/table.csv).
 
