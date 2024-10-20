@@ -18,11 +18,11 @@ Month-over-Month Growth Rate: Compares the percentage of flights recovered each 
 
 
 **Insights & Findings**:
-1. Initial Decline: The data indicates a dramatic drop in flight volumes starting in February 2020. This aligns with the onset of the COVID-19 pandemic and subsequent travel restrictions. 
-2. Gradual Recovery: From mid 2020, there is a noticeable uptick in flights, reflecting the gradual easing of lockdowns and an increase in seasonal travel, with some countries reopening their borders.
-3. Decline Phase: During late 2020, many countries began reintroducing tighter restrictions due to new variants and rising case numbers.
-4. Significant Increases: Starting from May 2021, flight numbers began to rise significantly as vaccinations became more widespread and countries gradually reopened their borders.
-5. Approaching Pre-Pandemic Levels: From July 2021 onwards, there was a strong upward trend, with monthly flights reaching 1 million and ultimately breaking 1.25 million by May 2022. This indicates that the industry is nearing full recovery, driven by pent-up demand and eased restrictions.
+- Initial Decline: The data indicates a dramatic drop in flight volumes starting in February 2020. This aligns with the onset of the COVID-19 pandemic and subsequent travel restrictions. 
+- Gradual Recovery: From mid 2020, there is a noticeable uptick in flights, reflecting the gradual easing of lockdowns and an increase in seasonal travel, with some countries reopening their borders.
+- Decline Phase: During late 2020, many countries began reintroducing tighter restrictions due to new variants and rising case numbers.
+- Significant Increases: Starting from May 2021, flight numbers began to rise significantly as vaccinations became more widespread and countries gradually reopened their borders.
+- Approaching Pre-Pandemic Levels: From July 2021 onwards, there was a strong upward trend, with monthly flights reaching 1 million and ultimately breaking 1.25 million by May 2022. This indicates that the industry is nearing full recovery, driven by pent-up demand and eased restrictions.
 
 
 # Country-Specific Recovery:
@@ -45,5 +45,4 @@ These countries have experienced significant air travel activity, with each acco
 ![UK](https://github.com/user-attachments/assets/2f6a834b-74ad-4601-b406-12dda0f481f3)
 
 **Insights & Findings**:
-1
-# Average Monthly Growth Rate
+
