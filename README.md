@@ -1,11 +1,10 @@
 # Post Pandemic Flight Analysis (2019 - May 2022)
 ### Executive Summary
-As an analyst hired by an airline company, my task is to examine the recovery of the airline industry in European countries post-COVID-19. The pandemic caused a significant downturn, leading to a rapid decline in airline operations and passenger numbers. This project aims to assess the recovery of the airline industry in European countries post-COVID-19, using data from 2019 to May 2022. It highlights recovery trends and provides strategic recommendations for the industry’s recovery.
+As an analyst hired by an airline company, my task is to examine the recovery of the airline industry in European countries post-COVID-19. The pandemic caused a significant downturn, leading to a rapid decline in airline operations and passenger numbers. This project evaluates the post-COVID-19 recovery of the airline industry in Europe, focusing on key countries and overall regional trends, using data from 2019 to May 2022. It highlights recovery trends and provides strategic recommendations for the industry’s recovery.
 
 Key Findings
-
 1. Initial Decline: Significant drop in flights starting February 2020.
-2. Gradual Recovery: Noticeable uptick from mid-2020.
+2. Gradual Recovery: Noticeable incrase in mid 2020
 3. Peak Recovery: Strong upward trend starting July 2021, nearing pre-pandemic levels by May 2022.
 
 ### Insight will be provided for there areas
