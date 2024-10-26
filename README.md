@@ -22,7 +22,7 @@ Month-over-Month Growth Rate: Compares the percentage of flights recovered each 
 - Gradual Recovery: From mid 2020, there is a noticeable uptick in flights, reflecting the gradual easing of lockdowns and an increase in seasonal travel, with some countries reopening their borders.
 - Decline Phase: During late 2020, many countries began reintroducing tighter restrictions due to new variants and rising case numbers.
 - Significant Increases: Starting from May 2021, flight numbers began to rise significantly as vaccinations became more widespread and countries gradually reopened their borders.
-- Approaching Pre-Pandemic Levels: From July 2021 onwards, there was a strong upward trend, with monthly flights reaching 1 million and ultimately breaking 1.25 million by May 2022. This indicates that the industry is nearing full recovery, driven by pent-up demand and eased restrictions.
+- Approaching Pre-Pandemic Levels: From July 2021 onwards, there 9999was a strong upward trend, with monthly flights reaching 1 million and ultimately breaking 1.25 million by May 2022. This indicates that the industry is nearing full recovery, driven by pent-up demand and eased restrictions.
 
 
 # Country-Specific Recovery:
@@ -46,3 +46,20 @@ These countries have experienced significant air travel activity, with each acco
 
 **Insights & Findings**:
 
+General Trend:
+Across all four countries, there was a significant decline in flight numbers starting in early 2020, reflecting the impact of the pandemic.
+
+Rate of Recovery:
+The recovery rates differ between countries. For instance, Germany and France show gradual improvement starting from the second half of 2021, while Spain and the UK exhibit a more erratic recovery pattern with notable fluctuations.
+
+Pre-Pandemic Levels:
+By the first half of 2022, no country had fully returned to pre-pandemic flight levels. The UK's flight rates remained approximately 16% below 2019 levels, while Spain showed a closer approach at around 14% below.
+
+Seasonal Impact:
+Summer months (July and August) show higher recovery rates in all countries, suggesting increased travel during these periods. Spain, in particular, saw a significant jump during these months.
+
+Quarterly Comparisons:
+The second half of 2021 (Q3 and Q4) saw a more substantial recovery in flights compared to the first half of the year. This trend is evident in Germany, France, and Spain.
+
+Short-Term Projections:
+If the recovery rate continues to double, as observed from the last quarters of 2021 into early 2022, it is reasonable to project that flights may approach or even reach pre-pandemic levels by late 2022 or early 2023 in some countries.
