@@ -10,9 +10,6 @@ As an analyst hired by an airline company, my task is to examine the recovery of
 # Data Structure 
 The following visualization is derived from the original dataset and includes the number of monthly flights from 2019 to May 2022 across European countries. The cleaned dataset, which includes variables such as Year, Month, and Total Flights, can be found [here](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/monthly_flights.csv), which was used to create the first chart. The data illustrating flight recovery percentages is shown in the table below [here](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/flight_recovery.csv), which was used to generate the second chart.
 
-![Flight Trend](https://github.com/user-attachments/assets/a9bd816f-47cc-4e3f-881a-d3fdf7ce2e44)
-![Eu](https://github.com/user-attachments/assets/c6bd20d3-11f8-4adf-8d38-10be47bf9748)
-
 # Executive Summary
 **Key Findings**
 - Initial Decline: Significant drop in flights starting February 2020.
@@ -28,7 +25,8 @@ The following visualization is derived from the original dataset and includes th
 - Decline Phase: During late 2020, many countries began reintroducing tighter restrictions due to new variants and rising case numbers.
 - Significant Increases: Starting from May 2021, flight numbers began to rise significantly as vaccinations became more widespread and countries gradually reopened their borders.
 - Approaching Pre-Pandemic Levels: From July 2021 onwards, there 9999was a strong upward trend, with monthly flights reaching 1 million and ultimately breaking 1.25 million by May 2022. This indicates that the industry is nearing full recovery, driven by pent-up demand and eased restrictions.
-
+![Flight Trend](https://github.com/user-attachments/assets/a9bd816f-47cc-4e3f-881a-d3fdf7ce2e44)
+![Eu](https://github.com/user-attachments/assets/c6bd20d3-11f8-4adf-8d38-10be47bf9748)
 
 # Country-Specific Recovery:
 These countries have experienced significant air travel activity, with each accounting for over 4 million flights from 2019 to May 2022. Due to their substantial traffic and pivotal roles in European air travel, I will deep dive into the recovery trends and insights for these four countries as shown [by](https://github.com/user-attachments/files/17370386/table.csv).
