@@ -13,9 +13,9 @@ The company’s main database was originally a single comprehensive repository. 
 2. [Flight Recovery](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/flight_recovery.csv):
 3. [Flight Volume](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/flight_volume.csv):
 4. [Spain Recovery](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/spain.csv):
-5. 
-6. 
-7. 
+5. [Germany Recovery](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/germany.csv):
+6. [France Recovery](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/france.csv):
+7. [UK Recovery](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/uk.csv):
    
 # Executive Summary
 **Key Findings**
