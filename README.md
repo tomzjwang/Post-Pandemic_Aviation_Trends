@@ -25,7 +25,6 @@ The company’s main database was originally a single comprehensive repository. 
 
 
 
-
 **Insights & Findings**:
 - Initial Decline: The data indicates a dramatic drop in flight volumes starting in February 2020. This aligns with the onset of the COVID-19 pandemic and subsequent travel restrictions. 
 - Gradual Recovery: From mid 2020, there is a noticeable uptick in flights, reflecting the gradual easing of lockdowns and an increase in seasonal travel, with some countries reopening their borders.
