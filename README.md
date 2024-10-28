@@ -8,11 +8,7 @@ As an analyst hired by an airline company, my task is to examine the recovery of
 - Average Monthly Growth Rate
 
 # Data Structure 
-The following visualization is derived from the original dataset and includes the number of monthly flights from 2019 to May 2022 across European countries. The cleaned dataset, which includes variables such as Year, Month, and Total Flights, can be found [here](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/monthly_flights.csv), the data illustrating flight recovery percentages is shown in the table below [here](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/flight_recovery.csv).
-
-**North Star Metric**: 
-Total Monthly Flights: This metric tracks the number of flights each month to measure overall recovery progress.                       
-Month-over-Month Growth Rate: Compares the percentage of flights recovered each month relative to 2019 levels.
+The following visualization is derived from the original dataset and includes the number of monthly flights from 2019 to May 2022 across European countries. The cleaned dataset, which includes variables such as Year, Month, and Total Flights, can be found [here](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/monthly_flights.csv), which was used to create the first chart. The data illustrating flight recovery percentages is shown in the table below [here](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/flight_recovery.csv), which was used to generate the second chart.
 
 ![Flight Trend](https://github.com/user-attachments/assets/a9bd816f-47cc-4e3f-881a-d3fdf7ce2e44)
 ![Eu](https://github.com/user-attachments/assets/c6bd20d3-11f8-4adf-8d38-10be47bf9748)
