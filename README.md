@@ -1,16 +1,16 @@
 # Post Pandemic Flight Analysis (2019 - May 2022)
-### Executive Summary
+### Project Background
 As an analyst hired by an airline company, my task is to examine the recovery of the airline industry in European countries post-COVID-19. The pandemic caused a significant downturn, leading to a rapid decline in airline operations and passenger numbers. This project evaluates the post-COVID-19 recovery of the airline industry in Europe, focusing on key countries and overall regional trends, using data from 2019 to May 2022. It highlights recovery trends and provides strategic recommendations for the industry’s recovery.
+
+**Insight will be provided for there areas**
+- Flight Volume Recovery (Europe) 
+- Recovery in Key Countries (Spain, Germany, France, UK)
+- Average Monthly Growth Rate
 
 **Key Findings**
 - Initial Decline: Significant drop in flights starting February 2020.
 - Gradual Recovery: Noticeable incrase in mid 2020
 - Peak Recovery: Strong upward trend starting July 2021, nearing pre-pandemic levels by May 2022.
-
-### Insight will be provided for there areas
-1. Flight Volume Recovery (Europe) 
-2. Country-Specific Recovery
-3. Average Monthly Growth Rate
 
 # Flight Volume Recovery (Europe):
 The following visualization is derived from the original dataset and includes the number of monthly flights from 2019 to May 2022 across European countries. The cleaned dataset, which includes variables such as Year, Month, and Total Flights, can be found [here](https://github.com/user-attachments/files/17356533/monthlyflights.csv), the data illustrating flight recovery percentages is shown in the table below [here](https://github.com/user-attachments/files/17370027/flightrecovery.csv).
