@@ -9,13 +9,13 @@ As an analyst hired by an airline company, my task is to examine the recovery of
 
 # Data Structure 
 The company’s main database was originally a single comprehensive repository. To optimize data management, it was divided into several smaller, specialized tables. Here’s the structure:
-1. [Monthly Flights](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/monthly_flights.csv):
-2. [Flight Recovery](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/flight_recovery.csv):
-3. [Flight Volume](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/flight_volume.csv):
-4. [Spain Recovery](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/spain.csv):
-5. [Germany Recovery](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/germany.csv):
-6. [France Recovery](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/france.csv):
-7. [UK Recovery](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/uk.csv):
+1. [Monthly Flights](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/monthly_flights.csv): Tracks the total number of monthly flights in Europe from January 2019 to May 2022.
+2. [Flight Recovery](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/flight_recovery.csv): Compares monthly flight rates to 2019 levels.
+3. [Flight Volume](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/flight_volume.csv): Summarizes flight volumes by country between January 2019 and May 2022.
+4. [Spain Recovery](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/spain.csv): Details monthly flight rates compared to 2019 for Spain.
+5. [Germany Recovery](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/germany.csv): Details monthly flight rates compared to 2019 for Germany.
+6. [France Recovery](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/france.csv): Details monthly flight rates compared to 2019 for France.
+7. [UK Recovery](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/uk.csv): Details monthly flight rates compared to 2019 for UK.
    
 # Executive Summary
 **Key Findings**
