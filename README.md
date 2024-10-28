@@ -11,9 +11,11 @@ As an analyst hired by an airline company, my task is to examine the recovery of
 The company’s main database was originally a single comprehensive repository. To optimize data management, it was divided into several smaller, specialized tables. Here’s the structure:
 1. [Monthly Flights](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/monthly_flights.csv):
 2. [Flight Recovery](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/flight_recovery.csv):
-3. 
+3. [Flight Volume](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/flight_volume.csv):
 4. 
 5. 
+6. 
+7. 
    
 # Executive Summary
 **Key Findings**
@@ -35,7 +37,7 @@ The company’s main database was originally a single comprehensive repository. 
 ![Eu](https://github.com/user-attachments/assets/c6bd20d3-11f8-4adf-8d38-10be47bf9748)
 
 # Country-Specific Recovery:
-These countries have experienced significant air travel activity, with each accounting for over 4 million flights from 2019 to May 2022. Due to their substantial traffic and pivotal roles in European air travel, I will deep dive into the recovery trends and insights for these four countries as shown [by](https://github.com/user-attachments/files/17370386/table.csv).
+These countries have experienced significant air travel activity, with each accounting for over 4 million flights from 2019 to May 2022. Due to their substantial traffic and pivotal roles in European air travel, I will deep dive into the recovery trends and insights for these four countries as shown
 
 **Spain**
 
