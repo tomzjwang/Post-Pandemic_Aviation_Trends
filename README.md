@@ -7,12 +7,7 @@ As an analyst hired by an airline company, my task is to examine the recovery of
 - Recovery in Key Countries (Spain, Germany, France, UK)
 - Average Monthly Growth Rate
 
-**Key Findings**
-- Initial Decline: Significant drop in flights starting February 2020.
-- Gradual Recovery: Noticeable incrase in mid 2020
-- Peak Recovery: Strong upward trend starting July 2021, nearing pre-pandemic levels by May 2022.
-
-# Flight Volume Recovery (Europe):
+# Data Structure 
 The following visualization is derived from the original dataset and includes the number of monthly flights from 2019 to May 2022 across European countries. The cleaned dataset, which includes variables such as Year, Month, and Total Flights, can be found [here](https://github.com/user-attachments/files/17356533/monthlyflights.csv), the data illustrating flight recovery percentages is shown in the table below [here](https://github.com/user-attachments/files/17370027/flightrecovery.csv).
 
 **North Star Metric**: 
@@ -21,6 +16,14 @@ Month-over-Month Growth Rate: Compares the percentage of flights recovered each 
 
 ![Flight Trend](https://github.com/user-attachments/assets/a9bd816f-47cc-4e3f-881a-d3fdf7ce2e44)
 ![Eu](https://github.com/user-attachments/assets/c6bd20d3-11f8-4adf-8d38-10be47bf9748)
+
+# Executive Summary
+**Key Findings**
+- Initial Decline: Significant drop in flights starting February 2020.
+- Gradual Recovery: Noticeable incrase in mid 2020
+- Peak Recovery: Strong upward trend starting July 2021, nearing pre-pandemic levels by May 2022.
+
+
 
 
 **Insights & Findings**:
