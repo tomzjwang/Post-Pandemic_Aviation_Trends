@@ -25,11 +25,11 @@ The analysis shows that flights significantly dropped in February 2020 due to th
 # Insights and Findings
 
 ### Flight Volume Recovery (Europe) 
-- Initial Decline: The data indicates a dramatic drop in flight volumes starting in February 2020. This aligns with the onset of the COVID-19 pandemic and subsequent travel restrictions. 
-- Gradual Recovery: From mid 2020, there is a noticeable uptick in flights, reflecting the gradual easing of lockdowns and an increase in seasonal travel, with some countries reopening their borders.
-- Decline Phase: During late 2020, many countries began reintroducing tighter restrictions due to new variants and rising case numbers.
-- Significant Increases: Starting from May 2021, flight numbers began to rise significantly as vaccinations became more widespread and countries gradually reopened their borders.
-- Approaching Pre-Pandemic Levels: From July 2021 onwards, there was a strong upward trend, with monthly flights reaching 1 million and ultimately breaking 1.25 million by May 2022. This indicates that the industry is nearing full recovery, driven by pent-up demand and eased restrictions.
+- Initial Decline: The data indicates a dramatic drop in flight volumes starting in February 2020. This aligns with the onset of the COVID-19 pandemic and subsequent travel restrictions. By April 2020, flight rates had plummeted to just 9.99% of 2019 levels, reflecting the severe impact of global lockdowns.
+- Gradual Recovery: From mid-2020, there is a noticeable uptick in flights, reflecting the gradual easing of lockdowns and an increase in seasonal travel, with some countries reopening their borders. By September 2020, flight rates had risen to 44.16% of 2019 levels, indicating the beginning of recovery.
+- Decline Phase: During late 2020, many countries began reintroducing tighter restrictions due to new variants and rising case numbers. Flight rates slightly fluctuated, maintaining levels around 30-40% compared to 2019, showing the unstable recovery trajectory.
+- Significant Increases: Starting from May 2021, flight numbers began to rise significantly as vaccinations became more widespread and countries gradually reopened their borders. By October 2021, flight rates reached 72.23% of 2019 levels, driven by increased passenger confidence and demand for travel.
+- Approaching Pre-Pandemic Levels: From July 2021 onwards, there was a strong upward trend, with monthly flights reaching 1 million and ultimately breaking 1.25 million by May 2022. This indicates that the industry is nearing full recovery, driven by pent-up demand and eased restrictions. By May 2022, flight rates were at 86.96% of 2019 levels, showcasing a robust recovery trajectory.
 
 ![Eu](https://github.com/user-attachments/assets/c6bd20d3-11f8-4adf-8d38-10be47bf9748)
 
