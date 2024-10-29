@@ -18,26 +18,20 @@ The company’s main database was originally a single comprehensive repository. 
 7. [UK Recovery](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/uk.csv): Details monthly flight rates compared to 2019 for UK.
    
 # Executive Summary
-**Key Findings**
-- Initial Decline: Significant drop in flights starting February 2020.
-- Gradual Recovery: Noticeable incrase in mid 2020
-- Peak Recovery: Strong upward trend starting July 2021, nearing pre-pandemic levels by May 2022.
+The analysis reveals three primary insights regarding the post-COVID-19 recovery of the airline industry in Europe. Firstly, there was a significant drop in flights starting February 2020, aligning with the onset of the pandemic. Secondly, a gradual recovery began in mid-2020, with noticeable increases reflecting the easing of lockdowns and seasonal travel. Lastly, by July 2021, the industry showed a strong upward trend, nearing pre-pandemic flight levels by May 2022.
 
+![Flight Trend](https://github.com/user-attachments/assets/a9bd816f-47cc-4e3f-881a-d3fdf7ce2e44)
 
+# Insights and Findings
 
-**Insights & Findings**:
+### Flight Volume Recovery (Europe) 
 - Initial Decline: The data indicates a dramatic drop in flight volumes starting in February 2020. This aligns with the onset of the COVID-19 pandemic and subsequent travel restrictions. 
 - Gradual Recovery: From mid 2020, there is a noticeable uptick in flights, reflecting the gradual easing of lockdowns and an increase in seasonal travel, with some countries reopening their borders.
 - Decline Phase: During late 2020, many countries began reintroducing tighter restrictions due to new variants and rising case numbers.
 - Significant Increases: Starting from May 2021, flight numbers began to rise significantly as vaccinations became more widespread and countries gradually reopened their borders.
-- Approaching Pre-Pandemic Levels: From July 2021 onwards, there 9999was a strong upward trend, with monthly flights reaching 1 million and ultimately breaking 1.25 million by May 2022. This indicates that the industry is nearing full recovery, driven by pent-up demand and eased restrictions.
-
-![Flight Trend](https://github.com/user-attachments/assets/a9bd816f-47cc-4e3f-881a-d3fdf7ce2e44)
-![Eu](https://github.com/user-attachments/assets/c6bd20d3-11f8-4adf-8d38-10be47bf9748)
-
-# Country-Specific Recovery:
+- Approaching Pre-Pandemic Levels: From July 2021 onwards, there was a strong upward trend, with monthly flights reaching 1 million and ultimately breaking 1.25 million by May 2022. This indicates that the industry is nearing full recovery, driven by pent-up demand and eased restrictions.
 These countries have experienced significant air travel activity, with each accounting for over 4 million flights from 2019 to May 2022. Due to their substantial traffic and pivotal roles in European air travel, I will deep dive into the recovery trends and insights for these four countries as shown
-
+![Eu](https://github.com/user-attachments/assets/c6bd20d3-11f8-4adf-8d38-10be47bf9748)
 **Spain**
 
 ![Spain](https://github.com/user-attachments/assets/152be887-e00b-4106-8061-d5b65affab6e)
