@@ -18,7 +18,7 @@ The company’s main database was originally a single comprehensive repository. 
 7. [UK Recovery](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/uk.csv): Details monthly flight rates compared to 2019 for UK.
    
 # Executive Summary
-The analysis shows that flights significantly dropped in February 2020 due to the pandemic. Recovery began mid-2020 with fluctuations influenced by seasonal travel and changing restrictions. By July 2021, the industry showed a strong upward trend, nearing pre-pandemic levels by May 2022, driven by vaccinations and easing restrictions.
+The analysis shows that flights significantly dropped in February 2020 due to the pandemic. Recovery began mid-2020 with fluctuations influenced by seasonal travel and changing restrictions. During late 2020, many countries reintroduced restrictions due to new variants. By July 2021, the industry showed a strong upward trend, nearing pre-pandemic levels by May 2022, driven by vaccinations and easing restrictions.
 
 ![Flight Trend](https://github.com/user-attachments/assets/a9bd816f-47cc-4e3f-881a-d3fdf7ce2e44)
 
