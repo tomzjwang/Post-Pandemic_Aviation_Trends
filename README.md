@@ -30,8 +30,13 @@ The analysis reveals three primary insights regarding the post-COVID-19 recovery
 - Decline Phase: During late 2020, many countries began reintroducing tighter restrictions due to new variants and rising case numbers.
 - Significant Increases: Starting from May 2021, flight numbers began to rise significantly as vaccinations became more widespread and countries gradually reopened their borders.
 - Approaching Pre-Pandemic Levels: From July 2021 onwards, there was a strong upward trend, with monthly flights reaching 1 million and ultimately breaking 1.25 million by May 2022. This indicates that the industry is nearing full recovery, driven by pent-up demand and eased restrictions.
-These countries have experienced significant air travel activity, with each accounting for over 4 million flights from 2019 to May 2022. Due to their substantial traffic and pivotal roles in European air travel, I will deep dive into the recovery trends and insights for these four countries as shown
+
 ![Eu](https://github.com/user-attachments/assets/c6bd20d3-11f8-4adf-8d38-10be47bf9748)
+
+### Recovery in Key Countries (Spain, Germany, France, UK)
+
+These countries have experienced significant air travel activity, with each accounting for over 4 million flights from 2019 to May 2022. Due to their substantial traffic and pivotal roles in European air travel, I will deep dive into the recovery trends and insights for these four countries as shown
+
 **Spain**
 
 ![Spain](https://github.com/user-attachments/assets/152be887-e00b-4106-8061-d5b65affab6e)
