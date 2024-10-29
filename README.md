@@ -18,7 +18,7 @@ The company’s main database was originally a single comprehensive repository. 
 7. [UK Recovery](https://github.com/tomzjwang/Post_Pandemic_Flight_Trends/blob/main/uk.csv): Details monthly flight rates compared to 2019 for UK.
    
 # Executive Summary
-The analysis reveals three primary insights regarding the post-COVID-19 recovery of the airline industry in Europe. Firstly, there was a significant drop in flights starting February 2020, aligning with the onset of the pandemic. Secondly, a gradual recovery began in mid-2020, with noticeable increases reflecting the easing of lockdowns and seasonal travel. Lastly, by July 2021, the industry showed a strong upward trend, nearing pre-pandemic flight levels by May 2022.
+The analysis shows that flights significantly dropped in February 2020 due to the pandemic. Recovery began mid-2020 with fluctuations influenced by seasonal travel and changing restrictions. By July 2021, the industry showed a strong upward trend, nearing pre-pandemic levels by May 2022, driven by vaccinations and easing restrictions.
 
 ![Flight Trend](https://github.com/user-attachments/assets/a9bd816f-47cc-4e3f-881a-d3fdf7ce2e44)
 
@@ -53,7 +53,7 @@ These countries have experienced significant air travel activity, with each acco
 
 ![UK](https://github.com/user-attachments/assets/2f6a834b-74ad-4601-b406-12dda0f481f3)
 
-**Insights & Findings**:
+
 
 General Trend:
 Across all four countries, there was a significant decline in flight numbers starting in early 2020, reflecting the impact of the pandemic.
@@ -70,7 +70,12 @@ Summer months (July and August) show higher recovery rates in all countries, sug
 Quarterly Comparisons:
 The second half of 2021 (Q3 and Q4) saw a more substantial recovery in flights compared to the first half of the year. This trend is evident in Germany, France, and Spain.
 
-Short-Term Projections:
+### Average Monthly Growth Rate
+
 
 # Recommendations:
--
+- Increase Airport Utilization: Maximize the use of airport facilities to handle increased passenger volumes during the recovery phase. Ensure efficient scheduling and resource allocation to avoid congestion and enhance passenger experience.
+- Invest in Health Measures: Continue investing in health protocols to ensure compliance with global health standards. This includes regular sanitization, contactless check-ins, and clear communication of health guidelines.
+- Mandatory Health Protocols: Implement strict adherence to health protocols across all operations, ensuring both staff and passengers follow these measures to maintain a safe travel environment.
+- Seasonal Travel Promotions: Launch targeted promotional campaigns for the upcoming travel season. Offer attractive deals and discounts to encourage bookings and stimulate demand.
+
