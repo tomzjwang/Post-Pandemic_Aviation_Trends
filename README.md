@@ -3,9 +3,8 @@
 As an analyst hired by an airline company, my task is to examine the recovery of the airline industry in European countries post-COVID-19. The pandemic caused a significant downturn, leading to a rapid decline in airline operations and passenger numbers. This project evaluates the post-COVID-19 recovery of the airline industry in Europe, focusing on key countries and overall regional trends, using data from 2019 to May 2022. It highlights recovery trends and provides strategic recommendations for the industry’s recovery.
 
 **Insight will be provided for there areas**
-- Flight Volume Recovery (Europe) 
+- Flight Volume Recovery (Europe)
 - Recovery in Key Countries (Spain, Germany, France, UK)
-- Average Monthly Growth Rate
 
 # Data Structure 
 The company’s main database was originally a single comprehensive repository. To optimize data management, it was divided into several smaller, specialized tables. Here’s the structure:
@@ -37,20 +36,10 @@ The analysis shows that flights significantly dropped in February 2020 due to th
 
 These countries have experienced significant air travel activity, with each accounting for over 4 million flights from 2019 to May 2022. Due to their substantial traffic and pivotal roles in European air travel, I will deep dive into the recovery trends and insights for these four countries as shown:
 
-General Trend:
-Across all four countries, there was a significant decline in flight numbers starting in early 2020, reflecting the impact of the pandemic.
-
-Rate of Recovery:
-The recovery rates differ between countries. For instance, Germany and France show gradual improvement starting from the second half of 2021, while Spain and the UK exhibit a more erratic recovery pattern with notable fluctuations.
-
-Pre-Pandemic Levels:
-By the first half of 2022, no country had fully returned to pre-pandemic flight levels. The UK's flight rates remained approximately 16% below 2019 levels, while Spain showed a closer approach at around 14% below.
-
-Seasonal Impact:
-Summer months (July and August) show higher recovery rates in all countries, suggesting increased travel during these periods. Spain, in particular, saw a significant jump during these months.
-
-Quarterly Comparisons:
-The second half of 2021 (Q3 and Q4) saw a more substantial recovery in flights compared to the first half of the year. This trend is evident in Germany, France, and Spain.
+1. Spain: Initial severe drop in early 2020, followed by a gradual recovery peaking around mid-2021. Consistent growth seen post-vaccination rollout.
+2. Germany: Significant decline by April 2020 with a gradual but steady recovery. Noticeable growth from mid-2021, reflecting the impact of vaccination campaigns.
+3. France: Sharp decline by April 2020, with a gradual climb starting mid-2020. Significant increases seen from early 2021, nearing pre-pandemic levels by late 2021.
+4. UK: Severe drop in early 2020, followed by fluctuating recovery phases. Steady growth from mid-2021, with strong recovery momentum observed through to May 2022.
 
 **Spain**
 
@@ -67,10 +56,6 @@ The second half of 2021 (Q3 and Q4) saw a more substantial recovery in flights c
 **UK**
 
 ![UK](https://github.com/user-attachments/assets/2f6a834b-74ad-4601-b406-12dda0f481f3)
-
-
-### Average Monthly Growth Rate
-
 
 # Recommendations:
 - Increase Airport Utilization: Maximize the use of airport facilities to handle increased passenger volumes during the recovery phase. Ensure efficient scheduling and resource allocation to avoid congestion and enhance passenger experience.
